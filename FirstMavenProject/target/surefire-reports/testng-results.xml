@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41184" started-at="2020-03-08T06:03:29Z" finished-at="2020-03-08T06:04:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41184" started-at="2020-03-08T06:03:29Z" finished-at="2020-03-08T06:04:11Z">
+      <class name="samplePackage.SecondMavenProgram">
+        <test-method status="PASS" signature="test2()[pri:0, instance:samplePackage.SecondMavenProgram@3b81a1bc]" name="test2" duration-ms="1" started-at="2020-03-08T11:33:44Z" finished-at="2020-03-08T11:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- samplePackage.SecondMavenProgram -->
+      <class name="samplePackage.FirstMavenClass">
+        <test-method status="PASS" signature="test1()[pri:0, instance:samplePackage.FirstMavenClass@42d3bd8b]" name="test1" duration-ms="14686" started-at="2020-03-08T11:33:29Z" finished-at="2020-03-08T11:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- samplePackage.FirstMavenClass -->
+      <class name="samplePackage.ThirdMavenProgram">
+        <test-method status="PASS" signature="test1()[pri:0, instance:samplePackage.ThirdMavenProgram@64616ca2]" name="test1" duration-ms="26455" started-at="2020-03-08T11:33:44Z" finished-at="2020-03-08T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- samplePackage.ThirdMavenProgram -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
